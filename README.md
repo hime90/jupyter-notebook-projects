@@ -1,2 +1,2 @@
 # jupyter-notebook-projects
-jupyternotebookrenderalternative: https://nbviewer.jupyter.org/
+jupyter notebook render alternative: https://nbviewer.jupyter.org/
